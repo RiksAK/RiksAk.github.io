@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/RiksAK/tab-akb-app/static/js/main.ce6354d2.chunk.js",
+    "main.js.map": "/RiksAK/tab-akb-app/static/js/main.ce6354d2.chunk.js.map",
+    "runtime-main.js": "/RiksAK/tab-akb-app/static/js/runtime-main.0666019d.js",
+    "runtime-main.js.map": "/RiksAK/tab-akb-app/static/js/runtime-main.0666019d.js.map",
+    "static/js/2.5957b759.chunk.js": "/RiksAK/tab-akb-app/static/js/2.5957b759.chunk.js",
+    "static/js/2.5957b759.chunk.js.map": "/RiksAK/tab-akb-app/static/js/2.5957b759.chunk.js.map",
+    "index.html": "/RiksAK/tab-akb-app/index.html",
+    "precache-manifest.1c7c7914dc3732260ce08252172b928e.js": "/RiksAK/tab-akb-app/precache-manifest.1c7c7914dc3732260ce08252172b928e.js",
+    "service-worker.js": "/RiksAK/tab-akb-app/service-worker.js",
+    "static/js/2.5957b759.chunk.js.LICENSE": "/RiksAK/tab-akb-app/static/js/2.5957b759.chunk.js.LICENSE",
+    "static/media/tab.png": "/RiksAK/tab-akb-app/static/media/tab.01e13c5d.png",
+    "static/media/test.jpg": "/RiksAK/tab-akb-app/static/media/test.4979dc61.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0666019d.js",
+    "static/js/2.5957b759.chunk.js",
+    "static/js/main.ce6354d2.chunk.js"
+  ]
+}
